@@ -1,2 +1,2 @@
-# kernel-objects
+# dinamic librarys
 kernels objects hello world
