@@ -1,2 +1,2 @@
 # dinamic librarys
-kernels objects hello world
+dinamic librarys hello world
