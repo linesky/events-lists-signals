@@ -1,2 +1,2 @@
 # kernel-objects
-kernels ohjects hello world
+kernels objects hello world
